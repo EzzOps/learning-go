@@ -66,6 +66,4 @@ References:
 
 Nana's GoLang course, and I extended the concepts using ChatGPT to understand.
 
-```
 
-This is just an example. You can adjust the headers and formatting to better suit your needs.
